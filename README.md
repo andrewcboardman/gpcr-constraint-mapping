@@ -20,12 +20,10 @@
 
 ## References
 
-[1] K. J. Karczewski et al., ‘The mutational constraint spectrum quantified from variation in 141,456 humans’, Nature, 581, pp. 434–
-443, 2020, doi :10.1038/s41586-020-2308-7
-[2] E. V. Minikel et al., ‘Evaluating drug targets through human loss-of-function genetic variation’, Nature, 581, pp. 459–464, 2020,
-doi: 10.1038/s41586-020-2267-z.
-[3] T. Schöneberg and I. Liebscher, ‘Mutations in G Protein–Coupled Receptors: Mechanisms, Pathophysiology and Potential
-Therapeutic Approaches’, Pharmacological Reviews, 73, pp. 89-119, 2021, doi: https://doi.org/10.1124/pharmrev.120.000011
-[4] M. Congreve, C. de Graaf, N. A. Swain, and C. G. Tate, ‘Impact of GPCR Structures on Drug Discovery’, Cell, 181, pp. 81–91,
-2020, doi: 10.1016/j.cell.2020.03.003
+[1] K. J. Karczewski et al., ‘The mutational constraint spectrum quantified from variation in 141,456 humans’, Nature, 581, pp. 434–443, 2020, doi :10.1038/s41586-020-2308-7
 
+[2] E. V. Minikel et al., ‘Evaluating drug targets through human loss-of-function genetic variation’, Nature, 581, pp. 459–464, 2020, doi: 10.1038/s41586-020-2267-z
+
+[3] T. Schöneberg and I. Liebscher, ‘Mutations in G Protein–Coupled Receptors: Mechanisms, Pathophysiology and Potential Therapeutic Approaches’, Pharmacological Reviews, 73, pp. 89-119, 2021, doi: https://doi.org/10.1124/pharmrev.120.000011
+
+[4] M. Congreve, C. de Graaf, N. A. Swain, and C. G. Tate, ‘Impact of GPCR Structures on Drug Discovery’, Cell, 181, pp. 81–91, 2020, doi: 10.1016/j.cell.2020.03.003
